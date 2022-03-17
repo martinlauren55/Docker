@@ -18,6 +18,9 @@ Instructions for working with Docker
 
 **docker image rmi $(docker images -a -q)**</br>
 
+Удалить все:</br>
+**docker system prune**</br>
+
 </br>
 
 ## CONTAINERS
